@@ -1,0 +1,9 @@
+#Python#
+venv/
+.env
+
+#Django#
+*.log
+__pycache__
+migration/
+db.sqlite3
